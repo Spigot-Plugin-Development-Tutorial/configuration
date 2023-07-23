@@ -1,0 +1,7 @@
+name: configs
+version: '${project.version}'
+main: me.kodysimpson.configs.Configs
+api-version: '1.20'
+commands:
+  changemessage:
+    description: Changes the join message in the config
